@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arifmetika", "Arifmetika.csproj", "{CC34DF67-928C-44D3-8103-0213F72F14F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Converter", "..\ConsoleApp4\Converter.csproj", "{6C631D04-8EE8-4F12-85D2-8601A4FC1A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calcul", "..\Calcul\Calcul.csproj", "{5DD81C2B-92CD-415B-9251-679439390976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC34DF67-928C-44D3-8103-0213F72F14F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC34DF67-928C-44D3-8103-0213F72F14F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC34DF67-928C-44D3-8103-0213F72F14F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC34DF67-928C-44D3-8103-0213F72F14F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C631D04-8EE8-4F12-85D2-8601A4FC1A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C631D04-8EE8-4F12-85D2-8601A4FC1A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C631D04-8EE8-4F12-85D2-8601A4FC1A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C631D04-8EE8-4F12-85D2-8601A4FC1A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DD81C2B-92CD-415B-9251-679439390976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD81C2B-92CD-415B-9251-679439390976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD81C2B-92CD-415B-9251-679439390976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD81C2B-92CD-415B-9251-679439390976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D513DF-C120-4793-8FC0-BFA760212C07}
+	EndGlobalSection
+EndGlobal

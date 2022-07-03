@@ -1,0 +1,6 @@
+C:\Users\MrZefirka\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\MrZefirka\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\MrZefirka\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\MrZefirka\source\repos\ConsoleApp3\obj\Debug\Arifmetika.csproj.CoreCompileInputs.cache
+C:\Users\MrZefirka\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\MrZefirka\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
